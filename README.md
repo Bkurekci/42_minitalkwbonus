@@ -1,1 +1,1 @@
-# 42_minitalkwbonus
+Contains all unicode characters, accepts all messages.
